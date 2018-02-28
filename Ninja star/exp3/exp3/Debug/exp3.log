@@ -1,0 +1,47 @@
+﻿  Source.cpp
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\glui.h(868): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(22): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(24): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(26): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(101): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(103): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(105): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(219): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(283): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(301): warning C4305: '+=': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(302): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(315): warning C4305: '-=': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(316): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(336): warning C4305: '=': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(348): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(352): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(365): warning C4305: '+=': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(366): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(380): warning C4305: '-=': truncation from 'double' to 'float'
+d:\dersler\bbm414\exp3\exp3\exp3\source.cpp(381): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  InitShader.cpp
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\dersler\bbm414\exp3\exp3\exp3\opengl\include\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  exp3.vcxproj -> D:\dersler\BBM414\exp3\exp3\Debug\exp3.exe
+  exp3.vcxproj -> D:\dersler\BBM414\exp3\exp3\Debug\exp3.pdb (Partial PDB)
